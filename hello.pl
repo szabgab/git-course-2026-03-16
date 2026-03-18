@@ -1,5 +1,6 @@
 use strict;
 use warnings;
+use feature 'say';
 
-
-print("Hello World");
+print("Hello World\n");
+say "Welcome to the git course";
