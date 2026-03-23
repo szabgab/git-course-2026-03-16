@@ -7,7 +7,6 @@ def main():
     z = 24
     y = 17
     print(z + y)
-    print(add(z, y))
 
 
 if __name__ == "__main__":
