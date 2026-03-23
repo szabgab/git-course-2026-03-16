@@ -1,8 +1,9 @@
 from mymath import add
 
 def main():
-    print(add(2, 3))
-    print(add(2, 3, 4))
+    print(add("+", 2, 3))
+    print(add("+", 2, 3, 4))
+    print(add("*", 2, 3))
 
     z = 24
     y = 17
